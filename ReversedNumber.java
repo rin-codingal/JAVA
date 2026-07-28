@@ -21,7 +21,7 @@ public class ReversedNumber {
           reversed = reversed * 10 + digit;
     
           // remove the last digit from num
-          num /= 10;
+          num = num / 10;
         }
     
         System.out.println("Reversed Number: " + reversed);

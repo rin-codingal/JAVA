@@ -1,4 +1,3 @@
-
 class MyParent{
 	protected void protect(){
 		System.out.println("I'm inside protected method");
@@ -10,8 +9,6 @@ class Mychild extends MyParent{
 
 	}
 }
-
-
 
 class Access {
   public static void main(String[] args) {

@@ -9,7 +9,7 @@ public class Ten10 {
         System.out.println("");
         System.out.println("Using while loop increment:");
         //using while loop
-        int j=0;
+        int j=1;
 
         while(j < 11){
             System.out.println("The value of i is: "+j);
